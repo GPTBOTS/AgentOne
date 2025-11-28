@@ -1,7 +1,7 @@
 # AgentOne
 
 <div align="center">
-  <img src="logo.png" alt="AgentOne Logo" width="100"/>
+  <img src="LOGO.png" alt="AgentOne Logo" width="100"/>
 </div>
 
 **AgentOne** is a powerful browser extension that seamlessly integrates your personalized AI Agents into your daily browsing experience.
