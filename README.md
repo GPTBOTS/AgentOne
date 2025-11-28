@@ -10,29 +10,29 @@ It bridges the gap between web content and intelligent assistance, dramatically 
 
 ## ✨ Key Features
 
-🤖 **Custom AI Agent Integration**
+### 🤖 Custom AI Agent Integration
 
 - Connect your own AI agents for personalized assistance
 - Support for multiple AI agent configurations
 - Seamless communication between browser and AI services
 
-📝 **Intelligent Content Selection**
+### 📝 Intelligent Content Selection
 
 - Select any text on web pages to interact with your AI agent
 - Context-aware assistance based on selected content
 
-🎯 **Side Panel Interface**
+### 🎯 **Side Panel Interface
 
 - Elegant sidebar design for easy access
 - Chat interface for natural conversations with AI agents
 - History tracking for all your interactions
 
-⚙️ **Flexible Settings**
+### ⚙️ Flexible Settings
 
 - Customize shortcuts and preferences
 - Manage prompts
 
-🛠️ **Web Tools Integration**
+### 🛠️ Web Tools Integration
 
 - Floating panel for quick AI assistance
 - On-page tools without leaving your current tab
@@ -49,8 +49,8 @@ It bridges the gap between web content and intelligent assistance, dramatically 
 
 ## 🔒 Privacy & Security
 
-* Your data stays secure
-* No unnecessary data collection
-* Transparent permission usage
+- Your data stays secure
+- No unnecessary data collection
+- Transparent permission usage
 
 For more, please visit [Privacy Policy](PRIVACY_POLICY.md).
