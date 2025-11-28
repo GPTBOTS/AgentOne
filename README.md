@@ -49,8 +49,8 @@ It bridges the gap between web content and intelligent assistance, dramatically 
 
 ## 🔒 Privacy & Security
 
-- Your data stays secure
-- No unnecessary data collection
-- Transparent permission usage
+* Your data stays secure
+* No unnecessary data collection
+* Transparent permission usage
 
 For more, please visit [Privacy Policy](PRIVACY_POLICY.md).
