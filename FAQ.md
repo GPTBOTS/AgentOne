@@ -18,3 +18,11 @@ Download the `.crx` file [here](https://github.com/GPTBOTS/AgentOne/releases); d
 
 
 ## Usage
+
+### Screenshot, uploading attachment, and/or get tab content failed.
+
+Please check your GPTBots Agent configuration.
+
+Go to the config page, find "Input". You need to enable the `Attachment Recognition`, and tick the `image` and `file`.
+
+DO NOT forget to click `Publish` after finishing the config.
