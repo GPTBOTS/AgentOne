@@ -8,6 +8,8 @@
 
 It bridges the gap between web content and intelligent assistance, dramatically improving your productivity and task efficiency.
 
+Install it from [Chrome Web Store](https://chromewebstore.google.com/detail/agentone/jfimkdckeehgbdegkefjofmeleocomad).
+
 ## ✨ Key Features
 
 ### 🤖 Custom AI Agent Integration
