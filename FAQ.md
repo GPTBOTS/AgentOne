@@ -6,7 +6,7 @@
 
 You need to first check if your browser is based on the Chromium kernel. Among the mainstream browsers in the world today, those based on the Chromium kernel include the following:
 
-Chrome, Opera, Microsoft Edge, Brave, Vivaldi, Arc, OpenAI Atlas, Comet, 360, QQ, Sogou, Samsung Internet.
+> Chrome, Opera, Microsoft Edge, Brave, Vivaldi, Arc, OpenAI Atlas, Comet, 360, QQ, Sogou, Samsung Internet.
 
 Browsers with the Chromium kernel can generally use this extension.
 
