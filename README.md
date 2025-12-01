@@ -8,7 +8,9 @@
 
 It bridges the gap between web content and intelligent assistance, dramatically improving your productivity and task efficiency.
 
-Install it from [Chrome Web Store](https://chromewebstore.google.com/detail/agentone/jfimkdckeehgbdegkefjofmeleocomad).
+Install from [Chrome Web Store](https://chromewebstore.google.com/detail/agentone/jfimkdckeehgbdegkefjofmeleocomad).
+
+If you have any questions, please visit [FAQ](/FAQ.md), or [report an issue](https://github.com/GPTBOTS/AgentOne/issues) to us, thank you!
 
 ## ✨ Key Features
 
@@ -56,3 +58,7 @@ Install it from [Chrome Web Store](https://chromewebstore.google.com/detail/agen
 - Transparent permission usage
 
 For more, please visit [Privacy Policy](PRIVACY_POLICY.md).
+
+## 📧 Contact Us
+
+- support@gptbots.ai
